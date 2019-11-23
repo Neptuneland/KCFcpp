@@ -1,3 +1,6 @@
+使用说明：https://www.twblogs.net/a/5c25e3b8bd9eee16b3db8246/zh-cn 
+
+
 # C++ KCF Tracker
 This package includes a C++ class with several tracking methods based on the Kernelized Correlation Filter (KCF) [1, 2].   
 It also includes an executable to interface with the VOT benchmark.
